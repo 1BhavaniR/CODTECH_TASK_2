@@ -2,7 +2,6 @@
 Name: BHAVANI R Company: CODTECH IT SOLUTIONS
 ID: CT4WD5316 Domain: WEB DEVELOPMENT Duration: 4 weeks Mentor: MUZAMMIL AHMED
 
-# To-Do List Application
 This is a To-Do List application built using React as part of my internship at CodeTech. The application allows users to manage their daily tasks efficiently, with features like task completion, theme switching, and more.
 
 # Features
