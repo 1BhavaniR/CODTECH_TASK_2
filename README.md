@@ -22,25 +22,3 @@ Delete a Task: Click the delete icon next to a task to remove it from the list.
 ![todoss](https://github.com/user-attachments/assets/023ad677-8fe8-4e14-86f1-8a1a27e44e77)
 ![todoss2](https://github.com/user-attachments/assets/d6e8b23b-c109-4f90-909e-f7949ea072c7)
 ![todo sss3](https://github.com/user-attachments/assets/f91a1c82-91a6-4965-ad7b-de33d2b2f921)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
